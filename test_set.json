@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Dữ liệu cá nhân nhạy cảm bao gồm những loại nào theo Nghị định 13/2023?",
+    "ground_truth": "Theo Điều 2 khoản 4 Nghị định 13/2023, dữ liệu cá nhân nhạy cảm bao gồm: quan điểm chính trị, quan điểm tôn giáo, tình trạng sức khỏe và đời tư được ghi trong hồ sơ bệnh án, thông tin liên quan đến nguồn gốc chủng tộc hoặc nguồn gốc dân tộc, thông tin về đặc điểm di truyền được thừa hưởng hoặc có được của cá nhân, thông tin về thuộc tính vật lý và đặc điểm sinh học đặc trưng của cá nhân (thông tin sinh trắc học), thông tin về đời sống tình dục hoặc xu hướng tình dục của cá nhân, dữ liệu về tội phạm và hành vi phạm tội được thu thập và lưu giữ bởi cơ quan thực thi pháp luật, thông tin khách hàng của tổ chức tín dụng."
+  },
+  {
+    "question": "Tổ chức nước ngoài chuyển dữ liệu cá nhân ra khỏi Việt Nam cần đáp ứng những điều kiện gì?",
+    "ground_truth": "Theo Điều 25 Nghị định 13/2023, việc chuyển dữ liệu cá nhân ra nước ngoài phải đáp ứng các điều kiện: được sự đồng ý của chủ thể dữ liệu; hoàn thành việc đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài; nước tiếp nhận dữ liệu phải bảo đảm mức độ bảo vệ dữ liệu cá nhân ít nhất bằng Việt Nam; thông báo cho Bộ Công an trước khi chuyển; lưu trữ hồ sơ chuyển dữ liệu trong ít nhất 5 năm."
+  },
+  {
+    "question": "Sự khác biệt giữa bên kiểm soát dữ liệu và bên xử lý dữ liệu trong Nghị định 13/2023 là gì?",
+    "ground_truth": "Theo Điều 2 Nghị định 13/2023, bên kiểm soát dữ liệu cá nhân là tổ chức hoặc cá nhân quyết định mục đích và phương tiện xử lý dữ liệu cá nhân. Bên xử lý dữ liệu cá nhân là tổ chức hoặc cá nhân thực hiện việc xử lý dữ liệu thay mặt cho bên kiểm soát, thông qua hợp đồng hoặc thỏa thuận. Hai bên có thể là cùng một tổ chức (bên kiểm soát và xử lý dữ liệu) hoặc là các tổ chức khác nhau. Bên kiểm soát chịu trách nhiệm chính về tuân thủ pháp luật, bên xử lý chịu trách nhiệm theo hợp đồng."
+  },
+  {
+    "question": "Chủ thể dữ liệu cá nhân có những quyền gì theo Nghị định 13/2023?",
+    "ground_truth": "Theo Chương III Nghị định 13/2023, chủ thể dữ liệu có các quyền: quyền được biết về hoạt động xử lý dữ liệu cá nhân của mình (Điều 8); quyền đồng ý hoặc không đồng ý cho phép xử lý dữ liệu (Điều 9); quyền truy cập để xem, chỉnh sửa dữ liệu cá nhân (Điều 10); quyền xóa dữ liệu cá nhân (Điều 11); quyền hạn chế xử lý dữ liệu cá nhân (Điều 12); quyền cung cấp dữ liệu cho chủ thể dữ liệu (Điều 13); quyền phản đối xử lý dữ liệu cá nhân (Điều 14); quyền khiếu nại, tố cáo, khởi kiện (Điều 15); quyền yêu cầu bồi thường thiệt hại (Điều 16); quyền tự bảo vệ (Điều 17)."
+  },
+  {
+    "question": "Nguyên tắc xử lý dữ liệu cá nhân theo Nghị định 13/2023 là gì?",
+    "ground_truth": "Theo Điều 3 Nghị định 13/2023, các nguyên tắc xử lý dữ liệu cá nhân bao gồm: dữ liệu cá nhân được xử lý theo quy định của pháp luật; chủ thể dữ liệu được biết về hoạt động liên quan đến xử lý dữ liệu; dữ liệu chỉ được thu thập khi chủ thể dữ liệu đồng ý, trừ trường hợp luật định; dữ liệu chỉ được dùng đúng mục đích đã thông báo; dữ liệu được bảo vệ, bảo mật trong quá trình xử lý; dữ liệu chỉ lưu trữ trong thời gian cần thiết; bên kiểm soát dữ liệu phải có trách nhiệm giải trình về tuân thủ."
+  },
+  {
+    "question": "Quy trình đánh giá tác động xử lý dữ liệu cá nhân bao gồm những bước nào?",
+    "ground_truth": "Theo Điều 24 Nghị định 13/2023, đánh giá tác động xử lý dữ liệu cá nhân phải được thực hiện khi bắt đầu xử lý dữ liệu cá nhân nhạy cảm, xử lý dữ liệu của trẻ em, hoặc xử lý dữ liệu quy mô lớn. Hồ sơ đánh giá tác động gồm: thông tin cơ bản về bên kiểm soát, mục đích xử lý, loại dữ liệu, biện pháp bảo vệ dữ liệu, đánh giá rủi ro và biện pháp giảm thiểu, ý kiến của Bộ phận bảo vệ dữ liệu cá nhân. Hồ sơ phải được lưu trữ và sẵn sàng cung cấp cho cơ quan có thẩm quyền khi yêu cầu."
+  },
+  {
+    "question": "Điều kiện hợp pháp để xử lý dữ liệu cá nhân mà không cần sự đồng ý của chủ thể là gì?",
+    "ground_truth": "Theo Điều 17 Nghị định 13/2023, xử lý dữ liệu cá nhân không cần sự đồng ý trong các trường hợp: thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật; bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu trong tình huống khẩn cấp; thực hiện nghĩa vụ theo hợp đồng; phục vụ lợi ích quốc gia, an ninh quốc phòng; nghiên cứu khoa học khi tuân thủ quy định; thực hiện quyền và nghĩa vụ pháp lý của bên kiểm soát."
+  },
+  {
+    "question": "Bên kiểm soát dữ liệu có nghĩa vụ gì khi xảy ra sự cố lộ lọt dữ liệu cá nhân?",
+    "ground_truth": "Theo Điều 23 Nghị định 13/2023, khi xảy ra vi phạm quy định về bảo vệ dữ liệu cá nhân, bên kiểm soát dữ liệu phải: thực hiện ngay các biện pháp ngăn chặn thiệt hại; thông báo cho Bộ Công an trong vòng 72 giờ kể từ khi phát hiện; thông báo cho chủ thể dữ liệu nếu sự cố ảnh hưởng đến quyền, lợi ích của họ; lưu trữ hồ sơ vi phạm và các biện pháp đã xử lý; phối hợp với cơ quan chức năng điều tra và khắc phục."
+  },
+  {
+    "question": "Dữ liệu cá nhân của trẻ em được xử lý theo quy định đặc biệt nào?",
+    "ground_truth": "Theo Điều 20 Nghị định 13/2023, xử lý dữ liệu cá nhân của trẻ em phải tuân thủ: cần có sự đồng ý của cha mẹ hoặc người giám hộ hợp pháp, ngoài sự đồng ý của trẻ em đủ tuổi nhận thức; chỉ xử lý khi có mục đích chính đáng và vì lợi ích tốt nhất của trẻ em; áp dụng biện pháp kỹ thuật để xác minh tuổi; không được xử lý dữ liệu cá nhân nhạy cảm của trẻ em, trừ trường hợp đặc biệt; phải dễ dàng cho trẻ em và người giám hộ thực hiện quyền của mình."
+  },
+  {
+    "question": "Cơ quan Nhà nước có trách nhiệm gì trong việc bảo vệ dữ liệu cá nhân theo Nghị định 13/2023?",
+    "ground_truth": "Theo Chương V Nghị định 13/2023, Bộ Công an chịu trách nhiệm chính: ban hành tiêu chuẩn kỹ thuật về bảo vệ dữ liệu cá nhân; tiếp nhận hồ sơ đánh giá tác động và chuyển dữ liệu ra nước ngoài; xử lý khiếu nại về bảo vệ dữ liệu cá nhân; thanh tra, kiểm tra việc tuân thủ. Các bộ, ngành quản lý lĩnh vực có trách nhiệm ban hành quy định chuyên ngành về bảo vệ dữ liệu cá nhân. UBND cấp tỉnh chịu trách nhiệm tuyên truyền, phổ biến và xử lý vi phạm tại địa phương."
+  },
+  {
+    "question": "Định nghĩa 'xử lý dữ liệu cá nhân' theo Nghị định 13/2023 bao gồm những hoạt động nào?",
+    "ground_truth": "Theo Điều 2 khoản 7 Nghị định 13/2023, xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu cá nhân, bao gồm: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa, công khai, kết hợp, truy cập, truy xuất, thu hồi, mã hóa, giải mã, sao chép, chia sẻ, truyền đưa, cung cấp, chuyển giao, xóa, hủy dữ liệu cá nhân hoặc các hành động khác có liên quan."
+  },
+  {
+    "question": "Sự đồng ý của chủ thể dữ liệu phải được thể hiện như thế nào theo Nghị định 13/2023?",
+    "ground_truth": "Theo Điều 9 Nghị định 13/2023, sự đồng ý của chủ thể dữ liệu phải: được thể hiện rõ ràng, tự nguyện, cụ thể và thông báo đầy đủ; có thể được thực hiện bằng văn bản, hành động được xác nhận, hệ thống điện tử, hoặc hình thức khác thể hiện ý muốn của chủ thể; không phụ thuộc vào điều kiện sử dụng dịch vụ (tức là từ chối đồng ý không bị ảnh hưởng đến việc sử dụng dịch vụ); có thể bị rút lại bất cứ lúc nào; bên kiểm soát dữ liệu phải có khả năng chứng minh sự đồng ý đã được cấp."
+  },
+  {
+    "question": "Theo Nghị định 13/2023, thời hạn lưu trữ dữ liệu cá nhân là bao lâu?",
+    "ground_truth": "Nghị định 13/2023 quy định dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian cần thiết để thực hiện mục đích đã thông báo, trừ khi pháp luật chuyên ngành có quy định khác về thời hạn lưu trữ tối thiểu. Sau khi kết thúc thời hạn lưu trữ, dữ liệu cá nhân phải được xóa hoặc hủy, trừ trường hợp pháp luật quy định khác. Hồ sơ về hoạt động xử lý dữ liệu và đánh giá tác động phải được lưu ít nhất 5 năm."
+  },
+  {
+    "question": "Tổng tài sản ngắn hạn của công ty theo báo cáo tài chính là bao nhiêu?",
+    "ground_truth": "Tổng tài sản ngắn hạn của công ty được ghi nhận trên Bảng cân đối kế toán trong Báo cáo tài chính (BCTC), bao gồm: tiền và các khoản tương đương tiền, các khoản đầu tư tài chính ngắn hạn, các khoản phải thu ngắn hạn, hàng tồn kho và tài sản ngắn hạn khác. Để biết con số cụ thể, cần tham chiếu đến Bảng cân đối kế toán tại thời điểm lập báo cáo."
+  },
+  {
+    "question": "Doanh thu thuần từ bán hàng và cung cấp dịch vụ của công ty là bao nhiêu trong kỳ báo cáo?",
+    "ground_truth": "Doanh thu thuần từ bán hàng và cung cấp dịch vụ được trình bày trên Báo cáo kết quả hoạt động kinh doanh trong BCTC. Đây là chỉ tiêu phản ánh doanh thu sau khi đã trừ các khoản giảm trừ doanh thu (chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại) và thuế gián thu. Con số cụ thể cần tra cứu tại Báo cáo kết quả hoạt động kinh doanh trong kỳ."
+  },
+  {
+    "question": "Lợi nhuận sau thuế thu nhập doanh nghiệp của công ty trong kỳ là bao nhiêu?",
+    "ground_truth": "Lợi nhuận sau thuế thu nhập doanh nghiệp là chỉ tiêu cuối cùng trên Báo cáo kết quả hoạt động kinh doanh, phản ánh phần lợi nhuận còn lại sau khi trừ thuế thu nhập doanh nghiệp. Đây là nền tảng để tính lợi nhuận trên mỗi cổ phiếu (EPS) và phân phối cổ tức. Số liệu cụ thể cần xem tại Báo cáo kết quả hoạt động kinh doanh trong BCTC của kỳ báo cáo."
+  },
+  {
+    "question": "Vốn chủ sở hữu của công ty tại cuối kỳ báo cáo là bao nhiêu và cơ cấu gồm những khoản mục nào?",
+    "ground_truth": "Vốn chủ sở hữu được trình bày trong Bảng cân đối kế toán phần nguồn vốn, bao gồm các khoản mục: vốn đầu tư của chủ sở hữu (vốn cổ phần đối với công ty cổ phần), thặng dư vốn cổ phần, quỹ đầu tư phát triển, quỹ dự phòng tài chính, lợi nhuận chưa phân phối, và các khoản điều chỉnh khác thuộc vốn chủ sở hữu. Tổng vốn chủ sở hữu bằng tổng tài sản trừ tổng nợ phải trả."
+  },
+  {
+    "question": "Các khoản nợ phải trả dài hạn của công ty bao gồm những gì và tổng giá trị là bao nhiêu?",
+    "ground_truth": "Nợ phải trả dài hạn được ghi nhận trên Bảng cân đối kế toán, gồm các khoản có thời gian đáo hạn trên 12 tháng kể từ ngày lập báo cáo, bao gồm: vay và nợ thuê tài chính dài hạn, trái phiếu phát hành, dự phòng phải trả dài hạn, doanh thu chưa thực hiện dài hạn và các khoản nợ dài hạn khác. Tổng giá trị cụ thể cần xem tại Bảng cân đối kế toán trong BCTC."
+  },
+  {
+    "question": "Công ty thực hiện chính sách kế toán nào đối với hàng tồn kho và phương pháp tính giá vốn hàng bán?",
+    "ground_truth": "Theo thuyết minh báo cáo tài chính, hàng tồn kho thường được ghi nhận theo giá gốc (cost) và đánh giá lại theo giá trị thuần có thể thực hiện được (net realizable value) khi giá trị thuần thấp hơn giá gốc. Phương pháp tính giá có thể là bình quân gia quyền, FIFO (nhập trước xuất trước) hoặc phương pháp xác định riêng tùy theo đặc điểm của loại hàng tồn kho. Chi tiết chính sách kế toán được trình bày trong phần Thuyết minh BCTC."
+  },
+  {
+    "question": "Luồng tiền từ hoạt động kinh doanh (operating cash flow) của công ty trong kỳ là dương hay âm, và những yếu tố chính nào ảnh hưởng?",
+    "ground_truth": "Luồng tiền từ hoạt động kinh doanh được trình bày trên Báo cáo lưu chuyển tiền tệ, phản ánh tiền thu và tiền chi từ hoạt động kinh doanh cốt lõi. Các yếu tố chính ảnh hưởng bao gồm: lợi nhuận trước thuế, khấu hao và dự phòng (điều chỉnh phi tiền mặt), thay đổi trong vốn lưu động (phải thu, hàng tồn kho, phải trả), tiền lãi vay và thuế thu nhập đã nộp. Luồng tiền dương cho thấy doanh nghiệp tạo ra tiền từ hoạt động kinh doanh, âm có thể chỉ ra vấn đề thanh khoản."
+  }
+]
