@@ -1,0 +1,30 @@
+question,answer,accuracy,relevance,conciseness,helpfulness,overall
+Dữ liệu cá nhân nhạy cảm bao gồm những loại nào theo Nghị định 13/2023?,"Dữ liệu cá nhân nhạy cảm theo Nghị định 13/2023 bao gồm: quan điểm chính trị, quan điểm tôn giáo, tình trạng sức khỏe và đời tư được ghi trong hồ sơ bệnh án, thông tin liên quan đến nguồn gốc chủng tộc hoặc nguồn gốc dân tộc, thông tin về đặc điểm di truyền, thông tin sinh trắc học, thông tin về đời sống tình dục hoặc xu hướng tình dục, và dữ liệu về tội phạm.",5,5,5,5,5.0
+Tổ chức nước ngoài chuyển dữ liệu cá nhân ra khỏi Việt Nam cần đáp ứng những điều kiện gì?,"Tổ chức nước ngoài chuyển dữ liệu cá nhân ra khỏi Việt Nam cần đáp ứng các điều kiện sau:
+
+1. Cần có sự đồng ý của chủ thể dữ liệu.
+2. Hoàn thành đánh giá tác động chuyển giao.
+3. Nước tiếp nhận phải đảm bảo mức bảo vệ dữ liệu tương đương.
+4. Thông báo Bộ Công an trước khi thực hiện chuyển dữ liệu.",5,5,5,5,5.0
+Sự khác biệt giữa bên kiểm soát dữ liệu và bên xử lý dữ liệu trong Nghị định 13/2023 là gì?,"Bên kiểm soát dữ liệu cá nhân quyết định mục đích và phương tiện xử lý, trong khi bên xử lý dữ liệu thực hiện xử lý thay mặt bên kiểm soát theo hợp đồng hoặc thỏa thuận.",5,5,5,5,5.0
+Chủ thể dữ liệu cá nhân có những quyền gì theo Nghị định 13/2023?,"Chủ thể dữ liệu cá nhân theo Nghị định 13/2023 có các quyền sau:
+
+1. Được biết (Điều 8)
+2. Đồng ý/không đồng ý (Điều 9)
+3. Truy cập, chỉnh sửa (Điều 10)
+4. Xóa (Điều 11)
+5. Hạn chế xử lý (Điều 12)
+6. Nhận bản sao (Điều 13)
+7. Phản đối (Điều 14)
+8. Khiếu nại, khởi kiện (Điều 15)
+9. Bồi thường (Điều 16)
+10. Tự bảo vệ.",5,5,4,5,4.75
+Nguyên tắc xử lý dữ liệu cá nhân theo Nghị định 13/2023 là gì?,"Nguyên tắc xử lý dữ liệu cá nhân theo Nghị định 13/2023 bao gồm:
+
+1. Xử lý theo pháp luật.
+2. Chủ thể được biết.
+3. Thu thập khi có đồng ý trừ luật định.
+4. Dùng đúng mục đích.
+5. Bảo mật trong xử lý.
+6. Lưu trữ trong thời gian cần thiết.
+7. Bên kiểm soát giải trình tuân thủ.",5,5,4,5,4.75
